@@ -1,14 +1,31 @@
-### Hey there, I'm Dharane Dharan! 👋
+Hello, I'm Dharane Dharan M  
 
-I'm a dedicated fourth-year Robotics and Automation engineering student at PSG College of Technology, based in Coimbatore, India. My academic journey has equipped me with a solid foundation in engineering principles, and I'm eager to apply my technical skills to real-world challenges.
+🎓 Robotics and Automation Engineer | 💻 Python & Automation Enthusiast | Exploring Software Development & QA Automation.
 
-- 🔭 I’m currently working on innovative projects in robotics and automation.
-- 🌱 I’m continuously learning and exploring the frontiers of technology.
-- 📫 You can reach me at [dharanedharanm@gmail.com](mailto:dharanedharanm@gmail.com).
+I’m passionate about building efficient, data driven tools that solve real world problems.  
+My interests include software automation, data analytics, and applied AI.  
 
-Thanks for stopping by! Let's connect and explore the world of technology together.
+🌱 Currently learning: DSA, Python scripting, and Flask  
+🧩 Building: Automation projects + smart maintenance chatbot  
+📫 Reach me at: dharanedharanm@gmail.com  
+💡 Motto: Keep building, keep learning.
 
-<!---
-TechDd27/TechDd27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+🔧 Tech Stack
+- Languages:Python, SQL, Java (Basics)
+- Tools:Pandas, Flask, Power BI(Basics), Git, Excel  
+- Concepts:Data Validation,Automation, API Integration.
+
+---
+
+📌 Featured Projects
+1. [🧩 Data Validation Tool](https://github.com/your-username/data-validation-tool)  
+   Automates quality checks for CSV data and generates summary reports.
+
+2. [🤖 Chatbot Maintenance Assistant](https://github.com/your-username/chatbot-maintenance-assistant)  
+   Prototype chatbot to assist factory technicians with operational codes.
+
+3. [💻 LeetCode Solutions](https://github.com/your-username/leetcode-solutions)  
+   A curated list of solved problems with explanations.
+
