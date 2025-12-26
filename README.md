@@ -26,6 +26,5 @@ My interests include software automation, data analytics, and applied AI.
 2. [🤖 Chatbot Maintenance Assistant](https://github.com/your-username/chatbot-maintenance-assistant)  
    Prototype chatbot to assist factory technicians with operational codes.
 
-3. [💻 LeetCode Solutions](https://github.com/your-username/leetcode-solutions)  
-   A curated list of solved problems with explanations.
+
 
